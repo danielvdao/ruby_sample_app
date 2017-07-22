@@ -10,6 +10,8 @@ end
 gem 'rails', '~> 5.1.2'
 # use bootstrap
 gem 'bootstrap-sass', '3.3.7'
+# Add in bcrypt ruby hash
+gem 'bcrypt-ruby', '3.0.1'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
